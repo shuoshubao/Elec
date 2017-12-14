@@ -1,8 +1,11 @@
 {
   "name": "Elec",
   "version": "1.0.0",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
-
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^1.7.9"
   }
 }
