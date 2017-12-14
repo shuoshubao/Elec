@@ -6,9 +6,11 @@
     "start": "electron .",
     "asar": "asar pack Elec Elec.asar",
     "packager": "electron-packager .",
-    "dmg": "electron-installer-dmg ./Elec-darwin-x64/Elec.app Elec"
+    "dmg": "electron-installer-dmg ./Elec-darwin-x64/Elec.app Elec",
+    "rebuild": "electron-rebuild"
   },
   "dependencies": {
-    "electron": "^1.7.9"
+    "electron": "^1.7.9",
+    "vue": "^2.5.11"
   }
 }

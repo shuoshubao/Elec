@@ -865,6 +865,10 @@ verror@1.10.0:
     core-util-is "1.0.2"
     extsprintf "^1.2.0"
 
+vue@^2.5.11:
+  version "2.5.11"
+  resolved "http://registry.npm.taobao.org/vue/download/vue-2.5.11.tgz#80ca2657aa81f03545cd8dd5a2f55454641e6405"
+
 wrappy@1:
   version "1.0.2"
   resolved "http://registry.npm.taobao.org/wrappy/download/wrappy-1.0.2.tgz#b5243d8f3ec1aa35f1364605bc0d1036e30ab69f"
