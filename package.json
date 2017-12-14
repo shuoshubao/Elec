@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "asar": "asar pack Elec Elec.asar",
+    "packager": "electron-packager .",
+    "dmg": "electron-installer-dmg ./Elec-darwin-x64/Elec.app Elec"
   },
   "dependencies": {
     "electron": "^1.7.9"
