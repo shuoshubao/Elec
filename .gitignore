@@ -2,3 +2,5 @@
 node_modules
 Elec-darwin-x64
 Elec.asar
+.cache/
+dist/
